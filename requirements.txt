@@ -1,0 +1,12 @@
+fastapi
+PyMySQL
+python-jose
+python-multipart
+SQLAlchemy
+uvicorn
+minio
+passlib
+pytest
+httpx
+pytest-asyncio
+pymongo
